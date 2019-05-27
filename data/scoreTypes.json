@@ -1,0 +1,69 @@
+{
+  "scoreCategories": [
+    {
+      "rawName": "trader_score_secondary",
+      "friendlyName": "Gold Stock",
+      "aliases": ["gold stock", "gold", "total gold", "gold score"]
+    },
+    {
+      "rawName": "score",
+      "friendlyName": "Total Score",
+      "aliases": ["total score", "score", "ts"]
+    },
+    {
+      "rawName": "research_score_secondary",
+      "friendlyName": "Levels of Research",
+      "aliases": ["levels of research", "research levels", "research secondary", "scientists levels", "research levels"]
+    },
+    {
+      "rawName": "building_score_secondary",
+      "friendlyName": "Building Levels",
+      "aliases": ["building levels", "building secondary", "levels of buildings", "building level score", "buildings", "buildings score"]
+    },
+    {
+      "rawName": "army_score_main",
+      "friendlyName": "Military Score",
+      "aliases": ["military", "army", "ms", "military score", "army score"]
+    },
+    {
+      "rawName": "building_score_main",
+      "friendlyName": "Master Builders",
+      "aliases": ["master builders", "builder", "builders", "building score"]
+    },
+    {
+      "rawName": "trade",
+      "friendlyName": "Trader Score",
+      "aliases": ["trader", "trade", "trade score", "trader score", "trading", "trading score", "traders"]
+    },
+    {
+      "rawName": "piracy",
+      "friendlyName": "Capture Points",
+      "aliases": ["capture points", "piracy", "pirate", "cp", "pirate score", "piracy score"]
+    },
+    {
+      "rawName": "defense",
+      "friendlyName": "Defence Points",
+      "aliases": ["defence points", "defense points", "defence", "defense", "defence score", "defense score", "dp"]
+    },
+    {
+      "rawName": "donations",
+      "friendlyName": "Donation Score",
+      "aliases": ["donations", "donation score", "donation", "donations score"]
+    },
+    {
+      "rawName": "research_score_main",
+      "friendlyName": "Scientist Score",
+      "aliases": ["scientists", "scientists score", "scientist score", "scientist", "research", "research score"]
+    },
+    {
+      "rawName": "offense",
+      "friendlyName": "Offensive Points",
+      "aliases": ["offensive points", "offensive score", "offense score", "offense", "offensive", "op"]
+    },
+    {
+      "rawName": "resources",
+      "friendlyName": "Resource Score",
+      "aliases": ["resources", "resource score", "resources score", "res", "resource"]
+    }
+  ]
+}
