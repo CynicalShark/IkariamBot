@@ -42,3 +42,5 @@ client.on('guildCreate', (guild) => require('./events/guildCreate.js')(client, g
 client.on('message', (message) => require('./events/message.js')(client, message, defaultSettings));
 
 client.login(client.config.token);
+
+bot.login(process.env.token):
